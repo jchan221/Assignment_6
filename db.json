@@ -1,0 +1,64 @@
+{
+    "students": [
+        {
+        "firstName": "John",
+        "lastName": "Smith",
+        "age": 18,
+        "alumni": false
+    },
+        {
+        "firstName": "Alex",
+        "lastName": "Beck",
+        "age": 20,
+        "alumni": false
+    },
+        {
+        "firstName": "Jerry",
+        "lastName": "Stitcher",
+        "age": 27,
+        "alumni": false
+    },
+        {
+        "firstName": "Weston",
+        "lastName": "Dennis",
+        "age": 30,
+        "alumni": false
+    },
+        {
+        "firstName": "James",
+        "lastName": "Mason",
+        "age": 23,
+        "alumni": false
+    },
+        {
+        "firstName": "Melissa",
+        "lastName": "Heinrich",
+        "age": 24,
+        "alumni": true
+    },
+        {
+        "firstName": "Eren",
+        "lastName": "Jaeger",
+        "age": 21,
+        "alumni": true
+    },
+        {
+        "firstName": "Armin",
+        "lastName": "Arlert",
+        "age": 21,
+        "alumni": true
+    },
+        {
+        "firstName": "Mikasa",
+        "lastName": "Ackermann",
+        "age": 21,
+        "alumni": true
+    },
+        {
+        "firstName": "Zeke",
+        "lastName": "Jaeger",
+        "age": 30,
+        "alumni": true
+    }
+    ]
+}
