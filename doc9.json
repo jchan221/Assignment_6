@@ -1,0 +1,10 @@
+{
+    "students": [
+        {
+        "firstName": "Mikasa",
+        "lastName": "Ackermann",
+        "age": 21,
+        "alumni": true
+    }
+    ]
+}
